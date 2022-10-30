@@ -2,5 +2,5 @@
 
 一条命令:
 ```
-wget https://raw.githubusercontent.com/Jerry-Young-23/x-ui/main/x-ui.sh && chmod +x ./x-ui.sh && ./x-ui.sh
+wget https://raw.githubusercontent.com/Jerry-Young-23/x-ui/main/x-ui.sh && chmod +x ./x-ui.sh && . ./x-ui.sh
 ```
